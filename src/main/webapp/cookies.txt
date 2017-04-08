@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+icsse2017.hcmute.edu.vn	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	ypbmqmvdvn1cijchijdskecr
+www.sfu.ca	TRUE	/	FALSE	1999999999	renderid	rend-p7
+
